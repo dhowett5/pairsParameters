@@ -1,0 +1,9 @@
+{
+  "1": {
+    "randomlyAssign_RanSeq": 1,
+    "taskName": ["4x4", "4x4", "4x4", "4x4", "6x6", "6x6"],
+    "timeOut": 380,
+    "incorrectGuessTOut": 380,
+    "displayExperimenterBox": 1
+  }
+}
