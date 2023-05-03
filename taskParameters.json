@@ -1,5 +1,5 @@
 {
-  "easy": {
+  "hard": {
     "randomlyAssign_RanSeq": 1,
     "randomOrder": [1,1,1,1,1,1],
     "taskName": ["4x4", "4x4", "4x4", "4x4", "6x6", "6x6"],
