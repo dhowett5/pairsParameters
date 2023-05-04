@@ -1,5 +1,5 @@
 {
-  "format1": {
+  "easy": {
     "randomlyAssign_RanSeq": 1,
     "randomOrder": [1,1,1,1,1,1],
     "taskName": ["4x4", "4x4", "4x4", "4x4", "6x6", "6x6"],
@@ -41,7 +41,7 @@
     }
   }
   },
-  "format2": {
+  "hard": {
     "randomlyAssign_RanSeq": 1,
     "randomOrder": [1,1,1,1,1,1],
     "taskName": ["4x4", "4x4", "6x6", "6x6", "8x6","8x6"],
